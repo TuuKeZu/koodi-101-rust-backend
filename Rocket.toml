@@ -1,2 +1,0 @@
-[default.databases.koodi101]
-url = "postgres://matti:123@localhost/koodi-101"
